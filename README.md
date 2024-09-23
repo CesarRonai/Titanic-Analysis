@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Titanic-Analysis.git
+   [git clone https://github.com/YOUR_USERNAME/Titanic-Analysis.git](https://github.com/CesarRonai/Titanic-Analysis)
    ```
 
 2. **Install the necessary dependencies:**
